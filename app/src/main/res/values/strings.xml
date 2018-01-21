@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HACKATHON</string>
+    <string name="title2">Title</string>
+    <string name="description2">Description</string>
+    <string name="descrition4">Descrition</string>
+    <string name="button3">Button</string>
+    <string name="submit">SUBMIT</string>
+    <string name="button">Button</string>
+    <string name="button5">Button</string>
+    <string name="the_post_title_goes_here">The Post Title Goes Here</string>
+    <string name="the_post_description_goes_here">The Post Description Goes Here</string>
+
+</resources>
